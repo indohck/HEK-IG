@@ -9,7 +9,7 @@ $ pkg install python2
 $ pip2 install colorama requests mechanize
 $ pkg install openssh -y
 $ pkg install git
-$ git clone https://github.com/saydog/HEK-IG
+$ git clone https://github.com/indohck/Hack-IG
 $ cd Hack-IG
 $ python2 IG.py
 ```
